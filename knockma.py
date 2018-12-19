@@ -66,5 +66,5 @@ while True:
         if ask.upper() == "E":
             exit(0) 
     except:
-        print "\nThank you for use Knock Mail."
+        print "\nThank you for using Knockma."
 exit(0)

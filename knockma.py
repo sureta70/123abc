@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-15 -*-
-# Copyright 2017 Knock Mail.
-# Written by: * Alisson Moretto - 4w4k3
+# Copyright 2018 Knockma.
+# Written by: * jtin - Sureta2
 # https://m.facebook.com/ash.olviga.90?refid=8
 # Licensed under the BSD-3-Clause
 from os import system
@@ -32,8 +32,8 @@ def single():
 	stdout.write(RED + "[!] NOTFD - [" + ema + "]\n" + END)
 
 stdout.write(WHITE + '''
-By: @4w4k3
-https://github.com/4w4k3
+By: Sureta0-Bl4ck1mag3
+https://m.facebook.com/ash.olviga.90?refid=8
 [-                                              -]''' + RED + '''
                                                    
  /$$$$$$ /$$   /$$/$$$$$$$ /$$$$$$$$/$$$$$$$$/$$$$$$ /$$$$$$$$/$$$$$$ 
